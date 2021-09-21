@@ -3,7 +3,7 @@
 Operational data challenge
 We would like to invite all interested in machine learning and operational research to explore our operational dataset. You can download it from here:
 
-- Data only (zipped Excel file, 53MB)
+- [Data only](https://medicalanalyticsgroup.files.wordpress.com/2020/04/dataonly.zip) (zipped Excel file, 53MB)
 - Code and data (zipped code and Excel file, 63MB)
 
 This data, describing patient waits in a hospital, was built for the following challenges (see our recent publication here: https://rdcu.be/b4ffC):
